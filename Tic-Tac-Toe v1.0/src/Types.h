@@ -1,14 +1,14 @@
-//////////////////////////////////////////////////////////////////
-// Author: DevCNub
+///////////////////////////////////////////////////////////////////////
+// Author: Fares
 // Name: types.h
-// Date: 22.06.2013
-// Purpose: Transferable types for porting applications on diff.
+// Date: 22.06.2013 (last updated on 28.08.2013)
+// Purpose: Transferable types for porting applications on different
 //          platforms and devices.
 //
 // Notes: The ANSI C standard doesn't define the size of the types in
 //        bits or bytes. The types are defined in terms of
 //        the minimum range each type must hold.
-//////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////
 
 
 #ifndef TYPES_H_INCLUDED
